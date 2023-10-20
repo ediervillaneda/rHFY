@@ -1,4 +1,3 @@
-
 # Textos de r/HFY - Humanity, F*ck Yeah!
 
 Este repositorio contiene traducciones de textos de [r/HFY (Humanity, F*ck Yeah!)](https://www.reddit.com/r/HFY/), una comunidad enfocada en la escritura que celebra el asombroso potencial de la humanidad en una variedad de géneros, incluyendo ciencia ficción y fantasía. Aquí, presentamos una lista de los textos que hemos traducido hasta el momento:
@@ -14,6 +13,12 @@ Este repositorio contiene traducciones de textos de [r/HFY (Humanity, F*ck Yeah!
 - **Estado:** En proceso
 - **URL:** [Why Humans Avoid War](https://www.reddit.com/r/HFY/comments/lvgoah/why_humans_avoid_war/)
 - **Descripción:** "Why Humans Avoid War" es otro emocionante texto de r/HFY que estamos en proceso de traducir. Este relato explora la razón por la cual los humanos evitan la guerra y presenta una perspectiva única sobre el tema.
+
+## 3. We Didn't Need Slaves (No necesitábamos esclavos)
+
+- **Estado:** Terminado
+- **URL:** [We Didn't Need Slaves](https://www.reddit.com/r/HFY/comments/obe8v7/we_didnt_need_slaves/)
+- **Descripción:** En un mundo donde la humanidad esclaviza a otras especies, los humanos ofrecen a sus ciudadanos como esclavos a alienígenas. Sin embargo, los humanos ejecutan un plan elaborado que resulta en su liberación y ascenso al poder, demostrando que no deben subestimarse.
 
 Si deseas acceder a las traducciones completadas o seguir el progreso de las traducciones en curso, puedes explorar las carpetas correspondientes en este repositorio.
 
